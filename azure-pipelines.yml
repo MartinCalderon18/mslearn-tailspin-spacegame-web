@@ -6,8 +6,6 @@ trigger:
     exclude:
       - docs/* # exclude the docs folder
   
-
-
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
